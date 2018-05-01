@@ -4,8 +4,8 @@ Put everything in the order that it should be done.
 ## Things it needs to do
 - Place universities.
 - Make roads.
-- Place ARC grants. *(used to win)*
-- Start a spinoff. *(used to win)*
+- Place ARC grants.
+- Start a spinoff.
 - Convert universities to G08 universities.
 - Retrain students.
 
