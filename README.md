@@ -1,12 +1,13 @@
 # Game-AI
+Put everything in the order that it should be done.
 
 ## Things it needs to do
-- Place ARC grants.
 - Place universities.
-- Convert universities to G08 universities.
 - Make roads.
+- Place ARC grants. *(used to win)*
+- Start a spinoff. *(used to win)*
+- Convert universities to G08 universities.
 - Retrain students.
-- Start a spinoff.
 
 ## Features we want to implement
 - Do everything randomly.
