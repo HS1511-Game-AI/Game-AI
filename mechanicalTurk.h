@@ -1,4 +1,4 @@
-*
+/*
  *  mechanicalTurk.h
  *  1917 v1.0
  *  Do not alter this file.
