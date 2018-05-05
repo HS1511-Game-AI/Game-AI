@@ -14,9 +14,9 @@
 #include "mechanicalTurk.h"
  
 action decideAction (Game g) {
-    MJStudents = getStudents(g, getWhoseTurn(g), STUDENT_MJ);
-    MTVStudents = getStudents(g, getWhoseTurn(g), STUDENT_MTV);
-    MMONEYStudents = getStudents(g, getWhoseTurn(g), STUDENT_MMONEY);
+    int MJStudents = getStudents(g, getWhoseTurn(g), STUDENT_MJ);
+    int MTVStudents = getStudents(g, getWhoseTurn(g), STUDENT_MTV);
+    int MMONEYStudents = getStudents(g, getWhoseTurn(g), STUDENT_MMONEY);
     
     action nextAction;
     
